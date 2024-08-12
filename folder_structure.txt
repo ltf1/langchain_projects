@@ -1,0 +1,12 @@
+.
+├── .env
+├── .gitignore
+├── .streamlit
+│   └── secrets.toml
+├── api
+│   └── app.py
+├── app.py
+├── folder_structure.txt
+└── langchain_projects.ipynb
+
+3 directories, 7 files
